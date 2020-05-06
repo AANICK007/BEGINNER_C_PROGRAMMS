@@ -2,11 +2,12 @@
 // Area of circle = 3.143*radius*radius
 main()
 {
-    int radius , area ;
+    int radius ;
+    float area ;
     printf("The radius of the circle = ");
     scanf("%d" , &radius );
     getch();
     area= (3.14)*(radius*radius) ;
-    printf("The area of the circle is = %d", area );
+    printf("The area of the circle is = %f", area );
     getch();
 }
