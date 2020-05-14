@@ -8,7 +8,7 @@ main()
     scanf("%d",&N) ;
     for (i=1 ; i<=N ; i++ )
         product = product*i ;
-    printf("The of of first %d natural numbers is = %d ",N , product ) ;
+    printf("The product of first %d natural numbers is = %d ",N , product ) ;
     getch() ;
 }
 
