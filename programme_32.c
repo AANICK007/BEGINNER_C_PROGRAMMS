@@ -1,3 +1,4 @@
+// This is a programme to calculate LCM of two numbers
 #include<conio.h>
 #include<stdio.h>
 main()
