@@ -1,4 +1,4 @@
-// This is a programme to print sum of first N natural numbers
+// This is a programme to print the factorial of any number
 #include<conio.h>
 #include<stdio.h>
 main()
