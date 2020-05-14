@@ -8,7 +8,7 @@ main()
     scanf("%d",&N) ;
     for (i=1 ; i<=N ; i++ )
         sum = sum+i ;
-    printf("The of of first %d natural numbers is = %d ",N , sum ) ;
+    printf("The sum of first %d natural numbers is = %d ",N , sum ) ;
     getch() ;
 }
 
