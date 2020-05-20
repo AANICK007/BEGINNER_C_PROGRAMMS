@@ -1,3 +1,4 @@
+// This is a programme to calculate factorial using recursion
 #include <stdio.h>
 
 int Fact (int) ;
